@@ -1,5 +1,5 @@
 ---
-title: Progressive Web Apps in Vue
+title: Progressive Web App in Vue
 sidebar_label: Progressive Web Apps
 ---
 
